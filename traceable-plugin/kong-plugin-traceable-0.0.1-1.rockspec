@@ -1,5 +1,5 @@
-package = "kong-plugin-zipkin"
-version = "0.0.1"
+package = "kong-plugin-traceable"
+version = "0.0.1-1"
 
 source = {
   url = "github-path-to-source-zip",
